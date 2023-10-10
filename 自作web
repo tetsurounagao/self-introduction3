@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Comapatable" content="IE=edge">
+    <meta name="viewport" content="width=device-wide, nitial-scale=1.0">
+    <title>長尾哲朗のページです！</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="favicon2.ico">
+
+ </head>
+
+ 
+<body>
+
+
+    
+<div class="title">
+<h2>TETSUROU NAGAO</h2>
+
+<a href="#title1">profile</a>
+<a href="#title2">skill</a>
+<a href="#title_works">works</a>
+
+<style>
+    div {
+      text-align: center;
+    }
+  </style>
+
+<div class="header">
+    　<div class="topimage">
+    　</div>
+</div>
+
+
+<div class="cover1">
+    <img src="icon4.png">
+</div>
+
+<div class="name2">
+    　N A G A O　　T E T S U R O U
+</div>
+
+
+
+<div class="name1">
+      長      尾     哲      朗  
+</div>
+
+<a id="title1">
+<div class="profile_title">
+<p>PROFILE</p>
+</div>
+</a>
+
+<div class="profile">
+<p>生年月日/2000年4月15日<br>血液型/O型<br>mail/tetsurounagao0415@gmail.com<br>最終学歴/東京福祉大学保育児童学部<br>前職/保育士</p>
+</div>
+
+<div class="profile2">
+    <span style="font-size: 30px;">は</span>じめまして、長尾哲朗と申します。<br>2023年の6月まで新宿区で保育士をしていましたが<br>この度フロントエンドエンジニアになるべく<br>アルバイトをしながらHTMLとCSSの勉強をしています。<br><br>どうぞよろしくお願いします！
+</div>
+
+<a id="title2">
+<div class="skill_title">
+    <p>SKILL</p>
+    </div>
+</a>
+
+<div class="skillhtmltitle">
+    <span class="skillhtml">HTML</span>
+        </div>
+
+<div class="skillcss">
+    <span class="skillcsstitle">CSS</span>
+        </div>
+
+        <div class="icon icon--plus">
+            <span class="icon__mark"></span>
+          </div>
+
+<div class="container">
+  <div class="cross"></div>
+
+</div>
+
+<p><a href="https://1-notes.com/css-sample-collection-of-shapes/" target="_blank" rel="noopener"></a></p>
+
+<div class="skillmusic">
+            <span class="skillmusictitle">MUSIC</span>
+                </div>
+        
+
+<div class="skill_ex">
+        <p><span style="font-size: 30px;">H</span>TMLとCSSに関してはまだまだ勉強を始めたばかりです。<br>しかし、私にはもうひとつスキルがあります。<br>それは<span style="font-size: 30px;">音楽</span>です。
+        </p>
+        </div>
+
+<div class="skill_music_ex">
+        <p>
+        具体的には作曲/編曲、サウンドエンジニアリング(ミックス/マスタリング)
+        <br>録音エンジニアリング(ドラムやグランドピアノ、ギター等のマイクセッティングと録音)
+        <br>サウンドロゴ制作やBGM制作と、動画作成ができます。
+        <br>今までの自主制作で培った力や経験を活かし
+        <br>フロントエンドエンジニアとして成長していきたいです。
+        </p>
+        
+
+<a id="title_works">
+            <div class="profile_title">
+            <p><br><br>WORKS</p>
+            </div>
+            </a>
+            
+
+<div class="wrap">
+    <iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/6-lDJuouwxo?si=5L9pnpMmwIAZTCJK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
+<div clas="movie2">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/z2G7L8ucwLg?si=-WHiEMpSRZH8VUfe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="movie3">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/nzsUPUb9cUk?si=aHBtXLBrXVae3hpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="movie3">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/se9I5qJJTYk?si=CRzXhBinMGXbJNpC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="futter">
+    <br><br><br><br>© NAGAO TETSUROU 2023
+</div>
+
+<div class="">
+
+</div>
+
+
+</body>
+</html>
